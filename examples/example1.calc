@@ -1,0 +1,31 @@
+# Atribuição de variáveis
+w := 4
+x := -2
+y := 4.5
+z := 3.8 + 5
+
+# Operações aritméticas básicas
+6.2 + 9.3
+x + 3.5
+w - y 
+-x
+x * 2 + 5
+2 / 5
+
+# Exponenciação
+x ** 2
+4 ** 5 + y ** 2
+
+# Ordem de precedência
+x + y * 3
+(x + y) * 3
+6 * 3 + 8 / 2 - 1 * 4
+6 * (3 + 8) / (2 - 1) * 4
+
+# Operadores relacionais
+x < y
+x > y
+x <= y
+x >= y
+x != y
+x == y
