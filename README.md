@@ -70,5 +70,5 @@ O compilador mostra automaticamente o resultado das operações. Para ver o valo
 2. Operadores básicos: '+', '-', '*', '/'
 3. Exponenciação: '**'
 4. Operadores relacionais: '<', '>', '<=', '>=', '==', '!='
-5. Ordem de precedência natural e dada por parêntesis '( )'
+5. Ordem de precedência natural e dada por parênteses '( )'
 <br><br>
